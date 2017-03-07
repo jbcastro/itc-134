@@ -169,3 +169,4 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 
 \[\e[1;35m\]\d \[\e[1;31m\]\t \[\e[1;32m\]\u@\[\e[1;33m\]\h:\w\$\[\e[0;36m\]"
 
+# Tested and approved by Papa Brady (James Shively), Wu Tang Clan ain't nuthin to mess wit 1324, March 7th, 2017
